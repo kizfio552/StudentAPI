@@ -9,7 +9,7 @@ namespace StudentAPI.Data
         public ApiContext(DbContextOptions<ApiContext> options)
             :base (options)
         {
-        --text
+        //text
         }
     }
 }
